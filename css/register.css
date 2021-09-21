@@ -1,0 +1,93 @@
+body{
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  font-family:sans-serif;
+  background: #34495e;
+}
+
+#headerSection h1{
+  font-family: cursive;
+  text-align: center;
+  margin: 10px auto;
+}
+
+#headerSection h3{
+  text-align: center;
+  background: rgb(114, 110, 96);
+  border-radius: 20px;
+
+}
+input{
+  padding: 10px;
+  border-radius: 5px;
+  width: 15%;
+}
+
+
+#dropbox{
+  text-align: center;
+  padding: 5px;
+  border-radius: 5px;
+  width: 5%;
+} 
+
+
+#Address{
+  border-radius: 10px;
+  width: 30%;
+  padding: 10px;
+}
+#register{
+  border-radius: 10px;
+  background-color: whitesmoke;
+  width: 5%;
+  padding: 5px; 
+  border: 2px solid black;
+  background-color: rgb(114, 110, 96);
+ 
+}
+#Name{
+  border-radius: 10px;
+  border: 2px sloid black;
+  padding: 10px;
+}
+#Mobile{
+  border-radius: 10px;
+  border: 2px sloid rgb(114, 110, 96);
+  padding: 10px;
+}
+#password{
+  border-radius: 10px;
+  border: 2px sloid ;
+  padding: 10px;
+
+  
+}
+#pwd{
+  border-radius: 10px;
+  border: 2px sloid black;
+  padding: 10px;
+}
+#photo{
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 5px;
+  width: 30%;  
+  
+}
+
+#role{
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 5px;
+  width: 30%; 
+}
+#role select{
+  border-radius: 10px;
+  background-color: whitesmoke;
+  width: 5%;
+  padding: 5px; 
+  border: 2px solid black;
+  background-color: rgb(114, 110, 96);
+}
